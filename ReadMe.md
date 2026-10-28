@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👤 About Me<br><br>- 🎓 **Education:** Computer Science Student at National University of Computer and Emerging Sciences (FAST-NUCES)<br>- 📅 **Current Status:** Currently in my 5th Semester<br>- 🚀 **Interests:** Software Development, Problem Solving, and exploring new technologies<br>- 🌱 **Learning:** Actively expanding my skills through academic and hands-on projects<br>
+### 👤 About Me<br><br>- 🎓 **Education:** Software Engineering Student at National University of Computer and Emerging Sciences (FAST-NUCES)<br>- 📅 **Current Status:** Currently in my 5th Semester<br>- 🚀 **Interests:** Software Development, Problem Solving, and exploring new technologies<br>- 🌱 **Learning:** Actively expanding my skills through academic and hands-on projects<br>
 
 
 ## 🌐 Socials:
